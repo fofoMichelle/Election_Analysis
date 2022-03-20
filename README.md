@@ -2,8 +2,8 @@
 # Overview of election audit
 This project had the assess the election results of a local election that had taken place.
 To do so Tom was given a series of task to perform which are the following:
-. Total number of votes cast
-. Total number of votes cast
+- Total number of votes cast
+- Total number of votes cast
 . A complete list of candidates who received votes
 . Total number of votes each candidate received
 . Percentage of votes each candidate won
