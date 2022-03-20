@@ -20,5 +20,7 @@ Based on the election analysis we made we have noticed the following points:
 - **Denver** county has the largest number total of **306,055** with a percentage of `82.8%`  
 ## Election-audit Summary
 This code script although it was a bit time consumming would save a huge amount of time if we were to run an analysis on another election analysis as the same code would apply for a provencial or gubernatorial or even federal election.
+
 Similary the code can provide an efficient analysis for years to come if it was to be well customized.
+
 In other words this script may turn out to be a very useful resource to the board of election if it was to perform future election analysis and it does not matter how big the set of data or which election is to be analysed it would still run.
